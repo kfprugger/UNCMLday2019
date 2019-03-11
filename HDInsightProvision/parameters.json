@@ -1,0 +1,23 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+
+        "clusterLoginPassword": {
+            "value": "P@ssw0rd12345!"
+        },
+        "clusterLoginUserName": {
+            "value": "azure"
+        },
+      
+        "location": {
+            "value": "eastus"
+        },
+        "sshPassword": {
+            "value": "P@ssw0rd12345!"
+        },
+        "sshUserName": {
+            "value": "sshuser"
+        }
+    }
+}
