@@ -32,7 +32,7 @@ By the time you leave the workshop, you should know the following:
 - [Azure ML Studio Hands-On Lab](https://github.com/kfprugger/MLDay/blob/master/MLStudio/create-experiment.md#open-machine-learning-studio)
 
 ### Session 4: Listen, Learn & Lunch Presented by Azure Machine Learning Service
-- **1230-1330:** This demonstration focuses the new Azure Machine Learning conslidated service that provides SDKs and services to quickly prep data, train, and deploy machine learning models. Improve productivity and costs with autoscaling compute & pipelines. Use these capabilities with open-source Python frameworks, such as PyTorch, TensorFlow, and scikit-learn.
+- **1230-1330:** This demonstration focuses the new Azure Machine Learning consolidated service that provides SDKs and services to quickly prep data, train, and deploy machine learning models. Improve productivity and costs with auto-scaling compute & pipelines. Use these capabilities with open-source Python frameworks, such as PyTorch, TensorFlow, and scikit-learn.
 - [LearnAI Bootcamp](https://github.com/Azure/data-ai-iot/tree/master/LearnAI-bootcamp)
 
 - [AISchool](https://github.com/Azure/data-ai-iot/tree/master/AISchool)
@@ -72,7 +72,7 @@ Thanks for spending time with Microsoft today. We're ALWAYS thrilled to come and
 
 ## [Learning Links](https://github.com/kfprugger/MLDay/blob/master/Training.md#training-links-for-azure)
 - [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
-- [Microsoft Docs - Full Documenation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
+- [Microsoft Docs - Full Documentation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
 - [Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
 - [Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
 - [GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
