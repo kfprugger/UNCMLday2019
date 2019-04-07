@@ -29,7 +29,7 @@ By the time you leave the workshop, you should know the following:
 ### Session 3: Azure Machine Learning Studio Lab and Data Sanitation
 - **1045-1145:** Our second lab will analyze and sanitize a large amount of data in our friendly, low-code ML Studio UX. Our objective is to visualize this large dataset, sanitize it and then infer predictions based on the previously collected data using a ML algorithm.
 
-- [Azure ML Studio Hands-On Lab](https://github.com/kfprugger/MLDay/blob/master/MLStudio/create-experiment.md#open-machine-learning-studio)
+- [Azure ML Studio Hands-On Lab](MLStudio/create-experiment.md)
 
 ### Session 4: Listen, Learn & Lunch Presented by Azure Machine Learning Service
 - **1230-1330:** This demonstration focuses the new Azure Machine Learning consolidated service that provides SDKs and services to quickly prep data, train, and deploy machine learning models. Improve productivity and costs with auto-scaling compute & pipelines. Use these capabilities with open-source Python frameworks, such as PyTorch, TensorFlow, and scikit-learn.
@@ -39,7 +39,7 @@ By the time you leave the workshop, you should know the following:
 ### Session 5: Databricks (Apache Spark ML Made Easier)
 - **1330-1430:** This lab will setup a Databricks workspace. Databricks a hosted Apache Spark environment that is simplified so that minimal infrastructure knowledge is needed to leverage the platform in order to employ Spark Machine Learning or Big Data notebooks.
 
-- [Databricks Setup and Lab 1 Hands-On Lab](https://github.com/kfprugger/MLDay/blob/master/DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-1-setup-azure-databricks-workspace)
+- [Databricks Setup and Lab 1 Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-1-setup-azure-databricks-workspace)
   - Exercise 1 and Exercise 2
 
 ### (If we have time) Session 6: Cognitive Services (pre-trained ML), Data Lakes and Deep Neural Networks
@@ -52,17 +52,18 @@ By the time you leave the workshop, you should know the following:
 # Follow-Up
 Thanks for spending time with Microsoft today. We're ALWAYS thrilled to come and speak about our technology and we'd love to hear back from you! Please see below for our contact information and survey.
 # ML Day Survey
-## **[ML Day Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3vmVKFttl1JjVF3shHsVeNUMDVCMUlOWUFURDE0UllPQ1dQNzVHWVpENS4u)**
+## **[ML Day Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3vmVKFttl1JjVF3shHsVeNUQ1lHWjFQSDU1M0dYMkI2STdBSE1NNUhFTy4u)**
 # Microsoft Contact
 ## Joey Brakefield, Cloud Solutions Architect (Southeast Region -- Atlanta, GA)
 - Email:    joey.brakefield@microsoft.com 
 - Twitter:  http://twitter.com/kfprugger
 - LinkedIn: https://www.linkedin.com/in/joeybrakefield/ 
 - GitHub:   https://github.com/kfprugger
-## Fabricio Lopes Sanchez , Cloud Solutions Architect (National Team -- Ft. Lauderdale, FL)
-- Email: Fabrcio.Sanchez@microsoft.com
-- Twitter: https://twitter.com/SanchezFabricio
-- LinkedIn: https://www.linkedin.com/in/fabriciosanchez/
+## Paul Yu, Cloud Solutions Architect (West Region -- Los Angeles, CA)
+- Email: Yu.Paul@microsoft.com
+- Twitter: https://twitter.com/pauldotyu
+- LinkedIn: https://www.linkedin.com/in/yupaul/
+- GitHub: https://github.com/pauldotyu
 
 
 
