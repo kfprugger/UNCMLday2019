@@ -46,7 +46,7 @@ By the time you leave the workshop, you should know the following:
 - **1445-1600:** In Exercise 3, we'll use the opensource TensorFlow ML library to analyze the data even further by using deploying a simple Deep Neural Network which will classify claims data.
   - If we have time, Exercise 4 leverages pre-built, compiled and inexpensive public Azure services to analyze the text with Microsoft's Text Analytics API which is part of the Cognitive Services toolkit. These services can be leverage in ANY code, anywhere securely so long as the code has access to the internet.
 
-- [Azure Databricks + TensorFlow Hands-On Lab](https://github.com/kfprugger/MLDay/blob/master/DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model)
+- [Azure Databricks + TensorFlow Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model)
   - Exercise 3 & 4 (if you have time)
 
 # Follow-Up
