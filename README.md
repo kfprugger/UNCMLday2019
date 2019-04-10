@@ -31,25 +31,25 @@ By the time you leave the workshop, you should know the following:
 ### Session 3: Azure Machine Learning Studio Lab and Data Sanitation
 - **1045-1145:** Our second lab will analyze and sanitize a large amount of data in our friendly, low-code ML Studio UX. Our objective is to visualize this large dataset, sanitize it and then infer predictions based on the previously collected data using a ML algorithm.
 
-- [Azure ML Studio Hands-On Lab](MLStudio/create-experiment.md)
+  - [Azure ML Studio Hands-On Lab](MLStudio/create-experiment.md)
 
 ### Session 4: Listen, Learn & Lunch Presented by Azure Machine Learning Service
 - **1230-1330:** This demonstration focuses the new Azure Machine Learning consolidated service that provides SDKs and services to quickly prep data, train, and deploy machine learning models. Improve productivity and costs with auto-scaling compute & pipelines. Use these capabilities with open-source Python frameworks, such as PyTorch, TensorFlow, and scikit-learn.
   
-- [LearnAI Bootcamp](https://github.com/Azure/data-ai-iot/tree/master/LearnAI-bootcamp)
+  - [LearnAI Bootcamp](https://github.com/Azure/data-ai-iot/tree/master/LearnAI-bootcamp)
 
-- [AISchool](https://github.com/Azure/data-ai-iot/tree/master/AISchool)
+  - [AISchool](https://github.com/Azure/data-ai-iot/tree/master/AISchool)
 ### Session 5: Databricks (Apache Spark ML Made Easier)
 - **1330-1430:** This lab will setup a Databricks workspace. Databricks a hosted Apache Spark environment that is simplified so that minimal infrastructure knowledge is needed to leverage the platform in order to employ Spark Machine Learning or Big Data notebooks.
 
-- [Databricks Setup and Lab 1 Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-1-setup-azure-databricks-workspace)
+  - [Databricks Setup and Lab 1 Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-1-setup-azure-databricks-workspace)
   - Exercise 1 and Exercise 2
 
 ### (If we have time) Session 6: Cognitive Services (pre-trained ML), Data Lakes and Deep Neural Networks
 - **1445-1600:** In Exercise 3, we'll use the opensource TensorFlow ML library to analyze the data even further by using deploying a simple Deep Neural Network which will classify claims data.
   - If we have time, Exercise 4 leverages pre-built, compiled and inexpensive public Azure services to analyze the text with Microsoft's Text Analytics API which is part of the Cognitive Services toolkit. These services can be leverage in ANY code, anywhere securely so long as the code has access to the internet.
 
-- [Azure Databricks + TensorFlow Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model)
+  - [Azure Databricks + TensorFlow Hands-On Lab](DatabricksML/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model)
   - Exercise 3 & 4 (if you have time)
 
 # Follow-Up
