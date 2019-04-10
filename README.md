@@ -21,6 +21,7 @@ By the time you leave the workshop, you should know the following:
 ### Session 1: Introduction to Azure and Azure Fundamentals 
 
 - **0830-0930:** This session gives a quick overview of Azure, Azure Cloud Shell, ML and HPC Azure offerings and how we will interacting with the different technologies of the presented in the day.
+  
   - [Intro to Azure Lab: The Azure Portal and Azure Active Directory Groups](AAD/AAD.md)
 
 ### Session 2: Azure Data Factory (ADF) and Data Hygiene for Analysis
@@ -34,6 +35,7 @@ By the time you leave the workshop, you should know the following:
 
 ### Session 4: Listen, Learn & Lunch Presented by Azure Machine Learning Service
 - **1230-1330:** This demonstration focuses the new Azure Machine Learning consolidated service that provides SDKs and services to quickly prep data, train, and deploy machine learning models. Improve productivity and costs with auto-scaling compute & pipelines. Use these capabilities with open-source Python frameworks, such as PyTorch, TensorFlow, and scikit-learn.
+  
 - [LearnAI Bootcamp](https://github.com/Azure/data-ai-iot/tree/master/LearnAI-bootcamp)
 
 - [AISchool](https://github.com/Azure/data-ai-iot/tree/master/AISchool)
