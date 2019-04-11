@@ -45,7 +45,7 @@ You can iterate on your model design, editing the experiment and running it unti
 
 ## Open Machine Learning Studio
 
-To get started with Studio, go to [https://studio.azureml.net](https://studio.azureml.net). If you’ve signed into Machine Learning Studio before, click **Sign In**. Otherwise, click **Sign up here** and choose between free and paid options.
+To get started with Studio, go to [https://studio.azureml.net](https://studio.azureml.net). If you’ve signed into Machine Learning Studio before, click **Sign In**. Use your institutional .EDU email address (e.g. joey.brakefield@unc.edu).
 
 ![Sign in to Machine Learning Studio][sign-in-to-studio]
 <br/>
