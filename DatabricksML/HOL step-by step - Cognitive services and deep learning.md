@@ -191,6 +191,8 @@ The notebook you will run depends on certain Python libraries like nltk and gens
 
 ### Task 2: Read thru and execute the Summarization notebook
 
+**TASKS 2 & 3 LOOK SIMILAR. THEY ARE NOT...PAY SPECIAL ATTENTION TO THE 'NOTEBOOK CALLED...' AREA OF EACH TASK**
+
 1. Within the Workspace, select the Workspace item in the menu and navigate to the folder where you uploaded the Databricks Archive (which should be [your-name/AI-lab]), and select the notebook called `01 Summarize`. This will open the notebook so you can read and execute the code it contains.
 
 2. Read the instructions at the top of the notebook, and execute the cells as instructed. Remember you can use `SHIFT + ENTER` to execute the currently selected cell, and if you do not have a cluster attached, you will be prompted to attach to the cluster you recently deployed.
