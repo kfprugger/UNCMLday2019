@@ -120,7 +120,7 @@ In this exercise, you will setup your Azure Databricks account and Workspace.
 
 3. On the Import Notebooks dialog, select URL and paste in the following URL:
     ```
-    https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/images/Hands-onlabstep-bystep-CognitiveServicesanddeeplearningimages/notebooks/AI-Lab.dbc?raw=true
+    https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/media/notebooks/AI-Lab.dbc?raw=true
     ```
 
 5. Select Import.
