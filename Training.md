@@ -5,6 +5,7 @@
 - [Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
 - [Cloud Architecture and API Overview in Azure](https://channel9.msdn.com/shows/Azure-Friday/Learning-Azure-Part-2-Architecture-and-interactive-APIs-for-NET-and-REST-APIs?ocid=AID754288&wt.mc_id=CFID0314)
 - [GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
+- [Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
 
 ## Azure Governance
 - [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
