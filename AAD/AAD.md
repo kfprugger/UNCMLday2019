@@ -28,7 +28,7 @@ First, let's navigate to the Azure portal (https://portal.azure.com) and let's d
     In my example, I used a security group called **studentgroup** and assigned it *"Owner"* rights. The next step will be to add yourself as an *"Owner"* and then remove that group. This will remove the rest of the workshop partipants' ability to assign resources to your Resource Group and ensuring that only **you** are able to put resources in your Resource Group for the rest of the day.
 
     ![RGsec2](images/rgsec2.jpg)
-
+    ![RGUNC](images/AAD-UNC.png)
 4. **IMPORTANT: DO THIS STEP FIRST** First, we'll add ourselves to the resource group and then we can remove the more expansive group permissions. 
 
     ![rgadd button](images/rgadd.jpg)
