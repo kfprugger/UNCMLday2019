@@ -44,7 +44,7 @@ By the time you leave the workshop, you should know the following:
 ### Session 5: Databricks (Apache Spark ML Made Easier)
 - **1330-1430:** This lab will setup a Databricks workspace. Databricks a hosted Apache Spark environment that is simplified so that minimal infrastructure knowledge is needed to leverage the platform in order to employ Spark Machine Learning or Big Data notebooks.
 
-  - [Databricks Setup and Lab 1 Hands-On Lab](https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-2-create-and-deploy-an-unsupervised-model)
+  - [Databricks Setup and Lab 1 Hands-On Lab](https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-1-setup-azure-databricks-workspace)
   - Exercise 1 and Exercise 2
 
 ### (If we have time) Session 6: Cognitive Services (pre-trained ML), Data Lakes and Deep Neural Networks
