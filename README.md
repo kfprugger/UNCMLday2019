@@ -23,6 +23,7 @@ By the time you leave the workshop, you should know the following:
 - **0830-0930:** This session gives a quick overview of Azure, Azure Cloud Shell, ML and HPC Azure offerings and how we will interacting with the different technologies of the presented in the day.
   
   - [Intro to Azure Lab: The Azure Portal and Azure Active Directory Groups](AAD/AAD.md)
+  - https://aka.ms/AA4q68y
 
 ### Session 2: Azure Data Factory (ADF) and Data Hygiene for Analysis
 - **0930-1030:** Azure Data Factory is Microsoft's data orchestration and integration tool that you can use to manage, modify and sanitize data before, during or after analyzing it with AI/ML tools.
