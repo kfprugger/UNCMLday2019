@@ -23,10 +23,12 @@ By the time you leave the workshop, you should know the following:
 - **0830-0930:** This session gives a quick overview of Azure, Azure Cloud Shell, ML and HPC Azure offerings and how we will interacting with the different technologies of the presented in the day.
   
   - [Intro to Azure Lab: The Azure Portal and Azure Active Directory Groups](AAD/AAD.md)
+  - https://aka.ms/AA4q68y
 
 ### Session 2: Azure Data Factory (ADF) and Data Hygiene for Analysis
 - **0930-1030:** Azure Data Factory is Microsoft's data orchestration and integration tool that you can use to manage, modify and sanitize data before, during or after analyzing it with AI/ML tools.
   - Due to complexity, we'll be walking through a live demo in class and talking through features that will help us "sanitize the data" before we analyze it.
+  - https://aka.ms/UNCMLDayADF
 
 ### Session 3: Azure Machine Learning Studio Lab and Data Sanitation
 - **1045-1145:** Our second lab will analyze and sanitize a large amount of data in our friendly, low-code ML Studio UX. Our objective is to visualize this large dataset, sanitize it and then infer predictions based on the previously collected data using a ML algorithm.
