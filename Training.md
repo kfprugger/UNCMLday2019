@@ -7,6 +7,7 @@
 - [GitHub Quickstart Templates to Test Out New Tech!](https://github.com/Azure/azure-quickstart-templates)
 - [Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
 - [Azure Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+- [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
 
 ## Azure Governance
 - [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
