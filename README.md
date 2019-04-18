@@ -76,7 +76,7 @@ Thanks for spending time with Microsoft today. We're ALWAYS thrilled to come and
 - [Azure Free $200 credit](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 - [Azure Internships and Programs](https://careers.microsoft.com/us/en/ur-lp-united-states)
 
-## [Learning Links](https://github.com/kfprugger/MLDay/blob/master/Training.md#training-links-for-azure)
+## [Learning Links](Training.md)
 - [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cvs-code)
 - [Microsoft Docs - Full Documentation and Tutorials for Each Azure Service](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all)
 - [Free Pluralsight Learning Provided by Microsoft](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2)
