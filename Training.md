@@ -8,8 +8,11 @@
 - [Azure Roles-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
 - [Azure Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 - [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+  
+## Academic Resources
+- [Data Science for Students - Labs, Events, and other Academic Resources](https://github.com/Microsoft/computerscience#learn-by-doing-with-our-hands-on-labs)
 
-## Azure Governance
+## Azure Governance for IT Pros and Cloud Admins
 - [Introduction To Series](https://www.linkedin.com/feed/update/urn:li:activity:6455194948508667904/)
 - [Azure Monetary Commitment](https://www.linkedin.com/feed/update/urn:li:activity:6455207625352114176/)
 - [Azure Enrollment Hierarchy](https://www.linkedin.com/feed/update/urn:li:activity:6455234097039179776)

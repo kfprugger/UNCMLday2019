@@ -74,6 +74,7 @@ Thanks for spending time with Microsoft today. We're ALWAYS thrilled to come and
 
 ## Internships and Free Azure Links
 - [Azure Free $200 credit](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
+- [Azure Free $100 credit for students (no credit card)](https://azure.microsoft.com/en-us/free/students/)
 - [Azure Internships and Programs](https://careers.microsoft.com/us/en/ur-lp-united-states)
 
 ## [Learning Links](Training.md)
